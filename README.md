@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=58A6FF&vCenter=true&width=650&lines=Software+Engineering+Student;Building+AI+Agents;Exploring+Agent+Infrastructure;Open+Source+Enthusiast)](https://git.io/typing-svg)
